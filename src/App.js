@@ -6,15 +6,16 @@ import hmIcon from "../src/assets/img/icons/race/hm.svg";
 import p1 from "../src/assets/img/portraits/1.jpg";
 import checkIcon from "../src/assets/img/icons/check.svg";
 
+
 function App() {
   return (
-    <div>
-      <header>
-        <div>
-          <img src={logo} alt="logo"/>
+    <div className="wrapper">
+      <header className="flex justify-between items-center pl-5">
+        <div className="flex">
+          <img className="mr-[15px]" src={logo} alt="logo"/>
           <div>
-            <h3>Dragon Age party maker</h3>
-            <p>Подбери идеальную команду</p>
+            <h3 className="uppercase">Dragon Age party maker</h3>
+            <p className="opacity-50">Подбери идеальную команду</p>
           </div>
         </div>
       </header>

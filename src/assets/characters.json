@@ -1,0 +1,147 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "../src/assets/img/portraits/1.jpg",
+    "name": "Блэкволл",
+    "class": "Воин",
+    "spec": "Специализация",
+    "race": "Человек мужчина",
+    "karma": 0
+  },
+  {
+    "id": 1,
+    "imageUrl": "../src/assets/img/portraits/2.jpg",
+    "name": "Серебрянка",
+    "class": "Разбойница",
+    "spec": "Специализация",
+    "race": "Человек женщина",
+    "karma": 0
+  },
+  {
+    "id": 2,
+    "imageUrl": "../src/assets/img/portraits/3.jpg",
+    "name": "Цитра",
+    "class": "Маг",
+    "spec": "Специализация",
+    "race": "Человек мужчина",
+    "karma": 0
+  },
+  {
+    "id": 3,
+    "imageUrl": "../src/assets/img/portraits/4.jpg",
+    "name": "Корбин",
+    "class": "Воин",
+    "spec": "Специализация",
+    "race": "Гном мужчина",
+    "karma": 0
+  },
+  {
+    "id": 4,
+    "imageUrl": "../src/assets/img/portraits/5.jpg",
+    "name": "Катари",
+    "class": "Воин",
+    "spec": "Специализация",
+    "race": "Кунари мужчина",
+    "karma": 0
+  },
+  {
+    "id": 5,
+    "imageUrl": "../src/assets/img/portraits/6.jpg",
+    "name": "Киллиан",
+    "class": "Маг",
+    "spec": "Специализация",
+    "race": "Эльф мужчина",
+    "karma": 0
+  },
+  {
+    "id": 6,
+    "imageUrl": "../src/assets/img/portraits/7.jpg",
+    "name": "Люка",
+    "class": "Разбойница",
+    "spec": "Специализация",
+    "race": "Гномиха женщина",
+    "karma": 0
+  },
+  {
+    "id": 7,
+    "imageUrl": "../src/assets/img/portraits/8.jpg",
+    "name": "Железный Бык",
+    "class": "Воин",
+    "spec": "Специализация",
+    "race": "Кунари мужчина",
+    "karma": 0
+  },
+  {
+    "id": 8,
+    "imageUrl": "../src/assets/img/portraits/9.jpg",
+    "name": "Коул",
+    "class": "Разбойник",
+    "spec": "Специализация",
+    "race": "Дух",
+    "karma": 0
+  },
+  {
+    "id": 9,
+    "imageUrl": "../src/assets/img/portraits/10.jpg",
+    "name": "Халл",
+    "class": "Разбойник",
+    "spec": "Специализация",
+    "race": "Человек мужчина",
+    "karma": 0
+  },
+  {
+    "id": 10,
+    "imageUrl": "../src/assets/img/portraits/11.jpg",
+    "name": "Сидони",
+    "class": "Колдунья",
+    "spec": "Специализация",
+    "race": "Человек женщина",
+    "karma": 0
+  },
+  {
+    "id": 11,
+    "imageUrl": "../src/assets/img/portraits/12.jpg",
+    "name": "Нерия",
+    "class": "Колдунья",
+    "spec": "Специализация",
+    "race": "Эльфийка женщина",
+    "karma": 0
+  },
+  {
+    "id": 12,
+    "imageUrl": "../src/assets/img/portraits/13.jpg",
+    "name": "Тамар",
+    "class": "Воительница",
+    "spec": "Специализация",
+    "race": "Человек женщина",
+    "karma": 0
+  },
+  {
+    "id": 13,
+    "imageUrl": "../src/assets/img/portraits/14.jpg",
+    "name": "Белинда",
+    "class": "Воительница",
+    "spec": "Специализация",
+    "race": "Человек женщина",
+    "karma": 0
+  },
+  {
+    "id": 14,
+    "imageUrl": "../src/assets/img/portraits/15.jpg",
+    "name": "Рион",
+    "class": "Маг",
+    "spec": "Специализация",
+    "race": "Человек мужчина",
+    "karma": 0
+  },
+  {
+    "id": 15,
+    "imageUrl": "../src/assets/img/portraits/16jpg",
+    "name": "Изабела",
+    "class": "Разбойница",
+    "spec": "Специализация",
+    "race": "Человек женщина",
+    "karma": 0
+  }
+
+]
