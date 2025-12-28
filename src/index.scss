@@ -47,8 +47,20 @@ header {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    border-radius: 40px;
     margin: 40px auto;
+    width: 210px;
+    height: 260px;
+    background-image: url(../public/img/bg.jpg);
+    box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0.3);
+    transition: all 0.2s ease-in-out;
   }
+  .card:hover {
+    box-shadow: 10px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 40px;
+    transform: translateY(-5px);
+  }
+
   img {
     cursor: pointer;
   }
@@ -57,12 +69,5 @@ header {
 .iconBlock {
   img:not(:last-child) {
     margin-bottom: 5px;
-    
   }
-}
-
-.card {
-  width: 210px;
-  height: 260px;
-  background-image: url(../public/img/bg.jpg);
 }
