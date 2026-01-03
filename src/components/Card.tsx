@@ -2,7 +2,17 @@ import React from "react";
 
 import checkIcon from "../assets/img/icons/check.svg";
 
-function Card({ name, imageUrl, job, spec, race, bio }) {
+interface CharacterProps {
+  name: string;
+  imageUrl: string;
+  job: string;
+  spec: string;
+  race: string;
+  bio: string;
+}
+
+
+function Card({ name, imageUrl, job, spec, race, bio }: CharacterProps) {
   return (
     <div className="card">
       <div className="pt-[10px] iconBlock ">

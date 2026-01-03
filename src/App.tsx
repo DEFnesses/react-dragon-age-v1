@@ -1,16 +1,15 @@
 import React from "react";
 
 import Header from "./components/Header";
+import Calc from "./components/Calc";
 import Card from "./components/Card";
+import Description from "./components/Description";
 import characters from "./assets/characters.json";
 import "./App.css";
 
 import searchIcon from "./assets/img/icons/search.svg";
 
 function App() {
-  const [descriptionOpened, setDescriptionOpened] = React.useState(false);
-
-
   return (
     <div className="wrapper">
       <Header />
@@ -25,16 +24,23 @@ function App() {
         </div>
 
         <div className="content flex flex-wrap">
-          {characters.map((obj) => (
+
+    {/* <Description bio={characters[0].bio} /> */}
+
+          {/* {characters.map((obj, index) => (
             <Card
+              key={index}
               name={obj.name}
               imageUrl={obj.imageUrl}
               job={obj.job}
               spec={obj.spec}
               race={obj.race}
-              bio={obj.bio}
+              bio={obj.bio || ""}
             />
-          ))}
+          ))} */}
+
+            <Calc />
+
         </div>
       </div>
     </div>
